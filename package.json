@@ -1,7 +1,6 @@
 {
   "dependencies": {},
   "devDependencies": {
-    "typescript": "^4.9.4",
     "bun-types": "^0.3.0"
   },
   "name": "fizzbuzz",
