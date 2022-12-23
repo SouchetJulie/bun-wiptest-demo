@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test";
-import { fizzBuzz } from "./fizzBuzz.js";
+import { fizzBuzz } from "../fizzBuzz.js";
 
 const data: [ number, string ][] = [
   [ 0, "0" ],
